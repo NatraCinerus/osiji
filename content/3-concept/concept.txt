@@ -1,0 +1,51 @@
+Title: Konsep Kreatif
+
+----
+
+Text: Pendidikan (banyak kampus), asri (taman & Adipura), dan singa (Arca Candi Kidal & Arema) adalah 3 hal yang menonjol dari kota Malang. 3 hal itulah yang kemudian menjadi konsep dasar dari maskot Osi & JI. Osi adalah seekor singa berambut daun, sedangkan Ji adalah seekor burung Manyar yang bersarang di rambut Osi. Nama Osi berasal dari kata “Iso” (iso = bisa) yang diucapkan menggunakan “ejaan Ngalam” khas kota Malang, yang bermakna kemampuan dalam meraih cita-cita (kota Malang). Sedangkan Ji berasal dari kata “siji” (siji = satu) yang bermakna persatuan (kerukunan warga Malang), yang apabila digabungkan “iso siji” bisa bermakna iso dadi siji (bisa bersatu) dan iso nomer siji (bisa menjadi nomor satu). Warga Osi dominan hijau (dingin) melambangkan keasrian kota Malang, diseim- bangkan oleh warna kuning-oranye (hangat) dan Ji yang merupakan warna khas burung Manyar. Dasi yang dikenakan Osi merupakan simbol pendidikan & pramuka.
+
+----
+
+Titleprologue: Konsep Kreatif
+
+----
+
+Imgconcept: osi-ji-concept.png
+
+----
+
+Conceptoption: 
+
+- 
+  listconceptimg: malang-kota-pendidikan.png
+  listconcepttitle: Malang Kota Pendidikan
+  listconcepttext: 'Malang terkenal sebagai kota Pendidikan, dan menjadi salah satu kota tujuan menun- tut ilmu bagi warga pulau jawa dan luar jawa. Tercatat 36 Universitas/Perguruan Tinggi Negeri dan Swasta di kota Malang.'
+- 
+  listconceptimg: malang-kota-asri.png
+  listconcepttitle: Malang Kota Asri
+  listconcepttext: 'Malang terkenal sebagai salah satu kota tujuan wisata, bahkan sejak jaman Belanda. Letak geogra snya yang dikelilingi gunung menjadikan hawanya sejuk. Malang mem- punyai banyak sekali taman/ruang terbuka hijau. Kota Malang juga beberapa kali meraih penghargaan Adipura.'
+- 
+  listconceptimg: singa-kota-malang.png
+  listconcepttitle: Singa dan Kota Malang
+  listconcepttext: 'Terlepas dari Arema dan kota Malang, ternyata Singa memiliki sejarah khusus ber- kaitan dengan kota Malang, bahkan sejak masa Hindu Buddha (candi). Terdapat arca singa di Candi Kidal. Lambang kota Malang pada masa Belanda adalah singa. Lambang Arema adalah singa.'
+- 
+  listconceptimg: burung-manyar.png
+  listconcepttitle: Burung Manyar
+  listconcepttext: >
+    Berdasarkan SK Gubernur nomor
+    5225/16774/032/1996 telah ditetapkan
+    bahwa burung Manyar (Ploceus Manyar)
+    adalah sebagai ciri khas fauna kota
+    Malang.
+- 
+  listconceptimg: bahasa-ngalam.png
+  listconcepttitle: Bahasa Ngalam
+  listconcepttext: 'Berbeda dengan bahasa Walikan pada umunya yang juga di punyai oleh daerah-daerah lain, Osob Kiwalan (Boso Walikan khas AREMA) memiliki keunikan tersendiri, jadi tidak asal balik. Bahasa khas Malang ini merupakan bahasa gabungan dari bahasa Jawa, Indonesia, Arab, Madura dan Cina, jadi kata-kata yang digunakan adalah hasil kesepaka- tan pada saat itu. Sangat unik dan khas Malang, itulah yang membuat Boso Ma- langan berbeda dengan bahasa walikan dari daerah lain.'
+
+----
+
+Titleconcept: Konsep Kreatif
+
+----
+
+Alttext: Osi dan Ji - Concept

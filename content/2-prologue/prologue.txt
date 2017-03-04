@@ -1,0 +1,17 @@
+Title: Prolog dan Tujuan
+
+----
+
+Text: Osi si singa dan Ji si burung manyar sebagai maskot terpilih yang lahir melalui proses lomba dimaksud diharapkan dapat menjadi media komunikasi yang efektif untuk mendukung tertib penataan kota Malang, pengembangan potensi dan representasi citra positif bagi Kota Malang. Maskot Kota Malang terpilih ini nantinya bisa digunakan secara luas dengan memperhatikan ketentuan-ketentuan yang sedang disusun bersama oleh Bappeda, ADGI dan sejumlah SKPD terkait.
+
+----
+
+Titleprologue: Prolog & Tujuan
+
+----
+
+Imgprologue: osi-ji-prologue.png
+
+----
+
+Alttext: Osi dan Ji - Prologue

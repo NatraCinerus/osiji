@@ -1,0 +1,21 @@
+title: Prologue
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  titlePrologue:
+    label: Judul Prologue
+    type:  text
+  text:
+    label: Deskripsi
+    type:  textarea
+  imgPrologue:
+    label: Image Prologue
+    type: image
+    width: 1/2
+  altText:
+    label: Alt Text
+    type:  text
+    width: 1/2

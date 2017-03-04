@@ -1,0 +1,25 @@
+Title: Osi & Ji
+
+----
+
+Author: Osi & Ji
+
+----
+
+Description: Website Osi & Ji, maskot kota Malang.
+
+----
+
+Keywords: malang,osi,ji,maskot
+
+----
+
+Copyright: 2017 Osi & Ji. General Public License
+
+----
+
+Faviconimg: favicon.png
+
+----
+
+Logoimg: logo-osi-ji.png

@@ -1,0 +1,25 @@
+Title: Hallo Sam!
+
+----
+
+Text: Osi dan ji adalah salah satu asset kota Malang milik publik yang diharapkan dapat menjadi icon kebanggaan bersama warga kota Malang !
+
+----
+
+Titleheader: Selamat Datang di kanal aktivasi Osi dan Ji!
+
+----
+
+Imgheader: osi-ji-header.png
+
+----
+
+Alttext: Osi dan Ji - Maskot Kota Malang
+
+----
+
+Titleheader1: Selamat Datang di
+
+----
+
+Titleheader2: kanal aktivasi Osi dan Ji!

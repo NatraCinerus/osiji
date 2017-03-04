@@ -1,0 +1,26 @@
+.section-download{
+  background: url('../img/background-download.png') center center no-repeat;
+  background-size:cover;
+
+  p {
+    color:$inverse-text;
+  }
+}
+.icon-download {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.btn-download {
+  font-size: 22px;
+  background-color: transparent;
+  border-color: $primary-background;
+  color: $inverse-text;
+  padding-left: 20px;
+  padding-right: 20px;
+
+  &:hover {
+    background-color: $primary-background;
+    border-color: $primary-background;
+    color: $download-text;
+  }
+}

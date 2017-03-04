@@ -1,0 +1,23 @@
+.section-concept {
+  background: url('../img/background-concept.jpg') no-repeat;
+  background-size: cover;
+}
+.list-concept {
+  margin-top: 30px;
+}
+.content-concept-wrapper {
+  border-top: 2px solid $secondary-background;
+  padding-top: 30px;
+}
+.icon-number {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  background-color: $download-text;
+  color: $inverse-text;
+  border-radius: 50%;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: 50px;
+  margin-left: 40px;
+}

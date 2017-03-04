@@ -1,0 +1,25 @@
+footer {
+  background-color: $inverse-background;
+  padding: 45px 0 20px;
+  color: $inverse-text;
+}
+.flip {
+  display: inline-block;
+  text-align: right;
+  margin: 0;
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: “FlipH”;
+}
+.social-media {
+  text-align: right;
+  margin-top: 12px;
+}
+.support-list {
+  li {
+    padding-left: 20px;
+  }
+}

@@ -1,0 +1,25 @@
+Title: Download
+
+----
+
+Text: Kini maskot kota Malang telah menjadi Public Domain yang siapapun bisa dengan bebas memakai untuk keperluan komersil maupun non komersil. Berikut adalah link download untuk file master maupun pedoman penggunaan maskot yang bisa langsung digunakan. Pastikan segala bentuk reproduksi maskot sesuai dengan guidelines yang telah disediakan.
+
+----
+
+Titledownload: Download
+
+----
+
+Imgdownload: download-img.png
+
+----
+
+Txtbutton: Download File Master Osi & Ji
+
+----
+
+Alttext: Download Icon
+
+----
+
+Urldownload: http://localhost:8000/content/4-download/osi-ji-master.zip

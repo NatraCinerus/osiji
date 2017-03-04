@@ -1,0 +1,27 @@
+title: Site
+pages: default
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  author:
+    label: Author
+    type:  text
+  description:
+    label: Description
+    type:  textarea
+  keywords:
+    label: keywords
+    type: tags
+  copyright:
+    label: Copyright
+    type:  textarea
+  faviconImg:
+    label: Favicon
+    type: image
+    width: 1/2
+  logoImg:
+    label: Logo
+    type: image
+    width: 1/2

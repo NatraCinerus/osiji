@@ -1,0 +1,28 @@
+.navbar-brand {
+  height: auto;
+  padding: 15px;
+
+  >img {
+    height: 50px;
+  }
+}
+.navbar-default {
+  border: none;
+  background-color: $primary-background;
+
+  .navbar-nav {
+    >li {
+      >a {
+        line-height: 48px;
+        border-bottom: 2px solid $primary-background;
+
+        &.active {
+          background-color: $primary-background;
+          border-bottom: 2px solid $third-background;
+          color:$heading-text;
+          font-weight: 500;
+        }
+      }
+    }
+  }
+}

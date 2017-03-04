@@ -1,0 +1,26 @@
+title: Header
+pages: false
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  titleHeader1:
+    label: Judul Header 1
+    type:  text
+    width: 1/2
+  titleHeader2:
+    label: Judul Header 2
+    type:  text
+    width: 1/2
+  text:
+    label: Deskripsi
+    type:  textarea
+  imgHeader:
+    label: Image Header
+    type: image
+    width: 1/2
+  altText:
+    label: Alt Text
+    type:  text
+    width: 1/2

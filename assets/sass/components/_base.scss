@@ -1,0 +1,22 @@
+body {
+	color: $primary-text;
+	background: $primary-background;
+	font-family: $body-copy;
+	font-size: $base-font-size;
+	line-height: $base-line-height;
+	padding-top: 80px;
+}
+a {
+	@include transition;
+}
+section {
+	padding: 80px 0;
+}
+.full-width {
+	width: 100%;
+}
+.card-style {
+	background-color: $primary-background;
+	box-shadow: 0 2px 15px transparentize($inverse-background, .5);
+	padding: 60px;
+}
