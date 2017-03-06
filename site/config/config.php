@@ -18,6 +18,8 @@ for more information: http://getkirby.com/license
 c::set('license', 'K2-PRO-d41d8cd98f00b204e9800998ecf8427e');
 c::set('debug',true);
 
+c::set('panel.install', true);
+
 /*
 
 ---------------------------------------
