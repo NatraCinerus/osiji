@@ -4,7 +4,7 @@
       <div class="col-md-8">
         <ul class="list-inline support-list">
           <li>
-            <a href="http://malangcreativefusion.com/"><img src="<?php echo kirby()->urls()->assets()?>/img/logo-mcf.png"></a>
+            <a href="http://mcf.or.id/"><img src="<?php echo kirby()->urls()->assets()?>/img/logo-mcf.png"></a>
           </li>
           <li>
             <a href="http://profileimage.studio/"><img src="<?php echo kirby()->urls()->assets()?>/img/logo-pis.png"></a>
