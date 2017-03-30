@@ -1,0 +1,98 @@
+Title: Download
+
+----
+
+Text: Berikut adalah link download jenis-jenis pose Osi dan Ji maupun sebagai bentuk pendukung di berbagai kegiatan.Bagi yang mempunyai pose baru atau bentuk lain dari aktivitas Osi dan Ji silahkan kirim file master (beserta lampiran lain bila diperlukan) ke **adgimalang@gmail.com**
+
+----
+
+Titledownload: Download
+
+----
+
+Imgdownload:
+
+----
+
+Alttext:
+
+----
+
+Urldownload:
+
+----
+
+Txtbutton:
+
+----
+
+Conceptoption:
+
+-
+  listconceptimg: logo_hut.png
+  listconcepttitle: Logo HUT Ke 104 Kota Malang
+  listconcepttext: Logo HUT Ke 104 Kota Malang
+-
+  listconceptimg: file_stiker.png
+  listconcepttitle: File Stiker
+  listconcepttext: File Stiker Osi dan Ji
+-
+  listconceptimg: osiji_pemilu.png
+  listconcepttitle: Osi dan Ji untuk Sosialisasi Pemilu
+  listconcepttext: Osi dan Ji untuk Sosialisasi Pemilu
+-
+  listconceptimg: osiji_beautiful.png
+  listconcepttitle: Logo Osi dan JI Beautiful Malang
+  listconcepttext: Logo Osi dan JI Beautiful Malang
+-
+  listconceptimg: osiji_lebaran.png
+  listconcepttitle: Osi dan Ji Selamat Lebaran
+  listconcepttext: Osi dan Ji Selamat Lebaran
+-
+  listconceptimg: osiji_expo.png
+  listconcepttitle: Osi dan JI untuk Malang Expo
+  listconcepttext: Osi dan JI untuk Malang Expo
+-
+  listconceptimg: osiji_line.png
+  listconcepttitle: Osi Ji untuk Stiker Line
+  listconcepttext: Osi Ji untuk Stiker Line
+
+----
+
+Downloadoption:
+
+-
+  listdownloadimg: logo_hut.png
+  listdownloadtitle: Logo HUT Ke 104 Kota Malang
+  listalttext: Logo HUT Ke 104 Kota Malang
+  listurl: https://www.google.com
+-
+  listdownloadimg: file_stiker.png
+  listdownloadtitle: File Stiker
+  listalttext: File Stiker
+  listurl: https://www.google.com
+-
+  listdownloadimg: osiji_pemilu.png
+  listdownloadtitle: Osi dan Ji untuk Sosialisasi Pemilu
+  listalttext: Osi dan Ji untuk Sosialisasi Pemilu
+  listurl: https://www.google.com
+-
+  listdownloadimg: osiji_beautiful.png
+  listdownloadtitle: Logo Osi dan Ji Beautiful Kota Malang
+  listalttext: Logo Osi dan Ji Beautiful Kota Malang
+  listurl: https://www.google.com
+-
+  listdownloadimg: osiji_lebaran.png
+  listdownloadtitle: Osi dan Ji Selamat Lebaran
+  listalttext: Osi dan Ji Selamat Lebaran
+  listurl: https://www.google.com
+-
+  listdownloadimg: osiji_expo.png
+  listdownloadtitle: Osi dan Ji untuk Malang Expo
+  listalttext: Osi dan Ji untuk Malang Expo
+  listurl: https://www.google.com
+-
+  listdownloadimg: osiji_line.png
+  listdownloadtitle: Osi dan Ji untuk Stiker Line
+  listalttext: Osi dan Ji untuk Stiker Line
+  listurl: https://www.google.com

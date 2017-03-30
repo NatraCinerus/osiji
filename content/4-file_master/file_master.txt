@@ -1,4 +1,4 @@
-Title: Download
+Title: File Master
 
 ----
 
@@ -6,7 +6,7 @@ Text: Kini maskot kota Malang telah menjadi Public Domain yang siapapun bisa den
 
 ----
 
-Titledownload: Download
+Titledownload: File Master
 
 ----
 

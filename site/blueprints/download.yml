@@ -1,5 +1,5 @@
 title: Download
-pages: false
+pages: true
 files: true
 fields:
   title:
@@ -11,20 +11,20 @@ fields:
   text:
     label: Deskripsi
     type:  textarea
-  imgDownload:
-    label: Image Header
-    type: image
-    width: 1/2
-  altText:
-    label: Alt Text
-    type: text
-    width: 1/2
-  urlDownload:
-    label: Link Url
-    info: link url diambil dari file yang sudah diupload
-    type: text
-    width: 1/2
-  txtButton:
-    label: Judul Tombol
-    type: text
-    width: 1/2
+  downloadOption:
+    label: Daftar Download
+    type: structure
+    style: table
+    fields:
+      listDownloadImg:
+        label: Gambar Download Pendukung
+        type: image
+      listDownloadTitle:
+        label: Judul Download
+        type: text
+      listAltText:
+        label: Alt Text
+        type: text
+      listUrl:
+        label: Link Url
+        type: text
